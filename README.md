@@ -1,4 +1,4 @@
-# Introduction-to-Python_Final_Project
+# NTHU_CS_Python_Final_Project
 ---
 We use python to build a simple Book Keeper.
 It contains three .py files and one .txt
