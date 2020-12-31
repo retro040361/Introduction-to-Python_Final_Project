@@ -1,0 +1,5 @@
+855
+['2020-06-27', '2020-06-28', '2020-06-28', '2020-06-28', '2020-06-28', '2020-06-29', '2020-06-29', '2020-06-29', '2020-06-29', '2020-06-30', '2020-06-30', '2020-06-30', '2020-06-30', '2020-06-27', '2020-06-27', '2020-06-27', '2020-06-27', '2020-06-27', '2020-06-27', '2020-06-29']
+['bubble_tea', 'lunch', 'coffee', 'ticket', 'ticket', 'breakfast', 'coco', 'salary', 'ticket', 'breakfast', 'lunch', 'soy_milk', 'ticket', 'chips', 'cake', 'instant_noodle', 'takoyaki', 'water', 'oil', 'game']
+['-60', '-45', '-35', '-60', '-120', '-120', '-45', '1000', '-100', '-50', '-80', '-20', '-45', '-30', '-80', '-75', '-40', '-40', '-100', '-500']
+['drink', 'food', 'drink', 'bus', 'railway', 'meal', 'drink', 'salary', 'railway', 'meal', 'meal', 'drink', 'bus', 'snack', 'snack', 'meal', 'meal', 'drink', 'transportation', 'expense']
